@@ -1,0 +1,1 @@
+This notebook is a continuation of the task of recognizing license plates on cars. In the last part (also in my git) I taught the model to find objects in the frame, including license plates. This time we will teach the model to recognize the numbers on these plates.
